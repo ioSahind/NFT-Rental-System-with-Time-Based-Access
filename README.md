@@ -20,7 +20,7 @@ To create a secure and permissionless NFT leasing protocol where digital assets 
 
 - Fee-based renting and royalties
 - Integration with ERC4907 (rental extension of ERC721)
-- dApp interface for managing rentals
+- dApp interface for managing rentals.
 - Off-chain authentication for NFT access during rental period
 - Support for batch listing and rental auctions
 
