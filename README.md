@@ -1,4 +1,4 @@
-# NFT Rental System with Time-Based Access. int
+# NFT Rental System with Time-Based Access.
 
 ## 📖 Project Description
 
