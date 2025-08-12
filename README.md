@@ -1,6 +1,6 @@
 # NFT Rental System with Time-Based Access
 
-## 📖 Project Description.
+## 📖 Project Description
 
 
 This smart contract enables NFT owners to lend their assets temporarily by locking them in a contract and granting time-based access to renters. After the rental period ends, the NFT is returned automatically to the original owner
