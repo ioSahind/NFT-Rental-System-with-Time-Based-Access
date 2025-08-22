@@ -5,7 +5,7 @@
 
 This smart contract enables NFT owners to lend their assets temporarily by locking them in a contract and granting time-based access to renters. After the rental period ends, the NFT is returned automatically to the original owner
 
-## 🌍 Project Visions.
+## 🌍 Project Visions
 
 To create a secure and permissionless NFT leasing protocol where digital assets such as game items, art, or access passes can be rented out on-chain for a specific time duration.
 
